@@ -1,1 +1,2 @@
-# BullDogInu-web
+# BullDogInu-Web
+BullDogInu Website

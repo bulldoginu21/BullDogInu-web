@@ -1,0 +1,180 @@
+Uri: https://BullDogInu.co/
+File Name: C:\Downloaded Web Sites\BullDogInu.co\index.htm
+Content Type: text/html
+
+Uri: https://BullDogInu.co/css/style.css
+File Name: C:\Downloaded Web Sites\BullDogInu.co\css\style.css
+Content Type: text/css
+
+Uri: https://BullDogInu.co/img/favicon.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\favicon.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/files/whitepaper.pdf
+File Name: C:\Downloaded Web Sites\BullDogInu.co\files\whitepaper.pdf
+Content Type: application/pdf
+
+Uri: https://app.uniswap.org/
+File Name: C:\Downloaded Web Sites\BullDogInu.co\index-1.htm
+Content Type: text/html
+
+Uri: https://www.dextools.io/app/uniswap/pair-explorer/0xb8ec4eb95d104753747bc689e6e997a637245bbd
+File Name: C:\Downloaded Web Sites\BullDogInu.co\app\uniswap\pair-explorer\0xb8ec4eb95d104753747bc689e6e997a637245bbd.html
+Content Type: text/html
+
+Uri: https://www.coingecko.com/en/coins/BullDogInu
+File Name: C:\Downloaded Web Sites\BullDogInu.co\en\coins\BullDogInu.html
+Content Type: text/html
+
+Uri: https://coinmarketcap.com/currencies/BullDogInu/
+File Name: C:\Downloaded Web Sites\BullDogInu.co\currencies\BullDogInu\index.htm
+Content Type: text/html
+
+Uri: https://blockfolio.com/coin/BullDogInu
+File Name: C:\Downloaded Web Sites\BullDogInu.co\coin\BullDogInu.html
+Content Type: text/html
+
+Uri: https://app.1inch.io/
+File Name: C:\Downloaded Web Sites\BullDogInu.co\index-2.htm
+Content Type: text/html
+
+Uri: https://bilaxy.com/trade/BullDogInu_ETH
+File Name: C:\Downloaded Web Sites\BullDogInu.co\trade\BullDogInu_ETH.html
+Content Type: text/html
+
+Uri: https://www.cointiger.com/en-us/
+File Name: C:\Downloaded Web Sites\BullDogInu.co\en-us\index.htm
+Content Type: text/html
+
+Uri: https://BullDogInu.medium.com/
+File Name: C:\Downloaded Web Sites\BullDogInu.co\index-3.htm
+Content Type: text/html
+
+Uri: https://twitter.com/BullDogInuToken
+File Name: C:\Downloaded Web Sites\BullDogInu.co\BullDogInuToken.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-204340165-1
+File Name: C:\Downloaded Web Sites\BullDogInu.co\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://kit.fontawesome.com/591ca88306.js
+File Name: C:\Downloaded Web Sites\BullDogInu.co\591ca88306.js
+Content Type: text/javascript
+
+Uri: https://BullDogInu.co/img/logo.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\logo.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/banner-BullDogInu.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\banner-BullDogInu.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/ethereum.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\ethereum.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/section-two-project.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\section-two-project.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/section-two-heart.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\section-two-heart.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/shiba-inu.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\shiba-inu.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/akita-inu.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\akita-inu.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/doge-coin.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\doge-coin.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/ecosystem.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\ecosystem.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/community.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\community.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/meme-based.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\meme-based.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/total-supply.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\total-supply.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/fifty-per-total-supply.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\fifty-per-total-supply.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/fifty-per-supply.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\fifty-per-supply.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/coingecko.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\coingecko.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/coinmarketcap.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\coinmarketcap.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/blockfolio.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\blockfolio.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/uniswap.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\uniswap.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/linch.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\linch.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/bilaxy.webp
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\bilaxy.webp
+Content Type: image/webp
+
+Uri: https://BullDogInu.co/img/cointiger.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\cointiger.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/footer-bubble.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\footer-bubble.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/footer-plane.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\footer-plane.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/js/script.js
+File Name: C:\Downloaded Web Sites\BullDogInu.co\js\script.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\BullDogInu.co\css2.css
+Content Type: text/css
+
+Uri: https://BullDogInu.co/img/banner-bg.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\banner-bg.png
+Content Type: image/png
+
+Uri: https://BullDogInu.co/img/bg-shape-min.png
+File Name: C:\Downloaded Web Sites\BullDogInu.co\img\bg-shape-min.png
+Content Type: image/png
+
+Uri: https://discord.com/invite/Hu4F8AFjXZ
+File Name: C:\Downloaded Web Sites\BullDogInu.co\invite\Hu4F8AFjXZ.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/BullDogInutoken/?igshid=1e53qr6qeld6x
+File Name: C:\Downloaded Web Sites\BullDogInu.co\BullDogInutoken\index.htm
+Content Type: text/html
+
